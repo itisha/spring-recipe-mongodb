@@ -1,3 +1,3 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app)
+[![CircleCI](https://circleci.com/gh/itisha/spring-recipe-mongodb.svg?style=svg)](https://circleci.com/gh/itisha/spring-recipe-mongodb)
 
-[![codecov](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app)
+[![codecov](https://circleci.com/gh/itisha/spring-recipe-mongodb/branch/master/graph/badge.svg)](https://circleci.com/gh/itisha/spring-recipe-mongodb)
